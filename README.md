@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Building data pipelines and BI dashboards as a Data Analyst at the University of Florida<br>👯 I'm looking to collaborate on<br>Data engineering projects, ETL pipelines, and open-source analytics tools<br>🤝 I'm looking for help with<br>dbt, Snowflake, and cloud data warehouse best practices<br>🌱 I'm currently learning<br>Snowflake, advanced SQL optimization, and cloud data engineering<br>💬 Ask me about<br>Python, SQL, Power BI, PySpark, Databricks, ETL pipelines, and data lakehouse architecture<br>⚡ Fun fact<br>I published a research paper on an Alzheimer's Detection CNN model achieving 98% accuracy — before finishing my undergrad!
+🔭 I'm currently working on<br>Building data pipelines and BI dashboards\<br>👯 I'm looking to collaborate on<br>Data engineering projects, ETL pipelines, and open-source analytics tools<br>🤝 I'm looking for help with<br>dbt, Snowflake, and cloud data warehouse best practices<br>🌱 I'm currently learning<br>Snowflake, advanced SQL optimization, and cloud data engineering<br>💬 Ask me about<br>Python, SQL, Power BI, PySpark, Databricks, ETL pipelines, and data lakehouse architecture<br>⚡ Fun fact<br>I published a research paper on an Alzheimer's Detection CNN model achieving 98% accuracy — before finishing my undergrad!
 
 
 ## 🌐 Socials:
